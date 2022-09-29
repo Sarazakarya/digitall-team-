@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Tajawal', sans-serif;
+}
+header
+{
+    height: 100vh;
+    background-image: linear-gradient(rgba(48, 75, 96,.7),rgba(48, 75, 96,.7)),
+    url(../images/pexels-fauxels-3184306.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.nav-link
+{
+    color: rgb(4, 9, 81);
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-weight: 500px;
+    padding-right: 50px !important;
+   
+}
+.nav-link.active, .nav-link:hover
+{
+    color: rgb(0, 0, 0) !important;
+}
+ .head
+{
+    margin-top: 17%;
+} 
+.cards
+{
+    background-color: rgb(6, 41, 69);
+}
